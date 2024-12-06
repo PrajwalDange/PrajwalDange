@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @PrajwalDange
+- 👋 Hi, I’m Prajwal Dange
 - 👀 I’m interested in coding ,decoding, logical thinking.
-- 🌱 I’m currently learning programing. 
+- 🌱 I’m currently learning Spring Boot. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me by mail id: prajwaldangeeng@gmail.com
 
